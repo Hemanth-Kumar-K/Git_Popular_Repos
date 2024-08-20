@@ -1,0 +1,19 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.language {
+  background-color: transparent;
+  border-width: 0px;
+  font-weight: 800;
+  font-family: 'Roboto';
+  padding: 6px;
+  border-radius: 14px;
+}
+
+.selected {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+}
